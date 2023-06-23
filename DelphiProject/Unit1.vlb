@@ -1,0 +1,13 @@
+﻿[BtnBrowse]
+Coordinates=268,10,76,58
+
+[EditWavPath]
+Coordinates=10,10,89,58
+Visible=True
+
+[Label1]
+Coordinates=10,78,53,58
+
+[]
+Coordinates=73,78,63,58
+
